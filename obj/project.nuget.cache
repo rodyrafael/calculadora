@@ -1,14 +1,15 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "HJ5dbdbytk8=",
+  "dgSpecHash": "oCfTNuZng3k=",
   "success": true,
-  "projectFilePath": "D:\\resta\\calculadora\\calculadora1.csproj",
-=======
-  "dgSpecHash": "tvxTHYwmoLM=",
-  "success": true,
-  "projectFilePath": "D:\\yhonam3\\calculadora\\calculadora1.csproj",
->>>>>>> yhon
+  "projectFilePath": "D:\\repoCalc\\calculadora1\\calculadora1.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema al leer el archivo de caché D:\\repoCalc\\calculadora1\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

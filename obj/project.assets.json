@@ -14,19 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
-      "projectUniqueName": "D:\\resta\\calculadora\\calculadora1.csproj",
+      "projectUniqueName": "D:\\repoCalc\\calculadora1\\calculadora1.csproj",
       "projectName": "calculadora1",
-      "projectPath": "D:\\resta\\calculadora\\calculadora1.csproj",
+      "projectPath": "D:\\repoCalc\\calculadora1\\calculadora1.csproj",
       "packagesPath": "C:\\Users\\AlumnoETI\\.nuget\\packages\\",
-      "outputPath": "D:\\resta\\calculadora\\obj\\",
-=======
-      "projectUniqueName": "D:\\yhonam3\\calculadora\\calculadora1.csproj",
-      "projectName": "calculadora1",
-      "projectPath": "D:\\yhonam3\\calculadora\\calculadora1.csproj",
-      "packagesPath": "C:\\Users\\AlumnoETI\\.nuget\\packages\\",
-      "outputPath": "D:\\yhonam3\\calculadora\\obj\\",
->>>>>>> yhon
+      "outputPath": "D:\\repoCalc\\calculadora1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -83,8 +75,16 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema al leer el archivo de caché D:\\repoCalc\\calculadora1\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
