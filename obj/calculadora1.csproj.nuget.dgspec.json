@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\repoCalc\\calculadora1\\calculadora1.csproj": {}
+    "D:\\resta\\calculadora\\calculadora1.csproj": {}
   },
   "projects": {
-    "D:\\repoCalc\\calculadora1\\calculadora1.csproj": {
+    "D:\\resta\\calculadora\\calculadora1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\repoCalc\\calculadora1\\calculadora1.csproj",
+        "projectUniqueName": "D:\\resta\\calculadora\\calculadora1.csproj",
         "projectName": "calculadora1",
-        "projectPath": "D:\\repoCalc\\calculadora1\\calculadora1.csproj",
+        "projectPath": "D:\\resta\\calculadora\\calculadora1.csproj",
         "packagesPath": "C:\\Users\\AlumnoETI\\.nuget\\packages\\",
-        "outputPath": "D:\\repoCalc\\calculadora1\\obj\\",
+        "outputPath": "D:\\resta\\calculadora\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -68,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
