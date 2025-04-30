@@ -40,6 +40,8 @@ namespace calculadora1.Pages
                         break;
                     case "resta":
                         Resultado = (Numero1 - Numero2).ToString();
+                    case "Multiplicacion":
+                        Resultado = (Numero1 * Numero2).ToString();
                         break;
                     default:
                         Resultado = "Operación no válida.";

@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "D:\\resta\\calculadora\\calculadora1.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "D:\\resta\\calculadora\\calculadora1.csproj",
         "packagesPath": "C:\\Users\\AlumnoETI\\.nuget\\packages\\",
         "outputPath": "D:\\resta\\calculadora\\obj\\",
+=======
+    "D:\\yhonam3\\calculadora\\calculadora1.csproj": {}
+  },
+  "projects": {
+    "D:\\yhonam3\\calculadora\\calculadora1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\yhonam3\\calculadora\\calculadora1.csproj",
+        "projectName": "calculadora1",
+        "projectPath": "D:\\yhonam3\\calculadora\\calculadora1.csproj",
+        "packagesPath": "C:\\Users\\AlumnoETI\\.nuget\\packages\\",
+        "outputPath": "D:\\yhonam3\\calculadora\\obj\\",
+>>>>>>> yhon
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

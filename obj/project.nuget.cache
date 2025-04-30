@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "HJ5dbdbytk8=",
   "success": true,
   "projectFilePath": "D:\\resta\\calculadora\\calculadora1.csproj",
+=======
+  "dgSpecHash": "tvxTHYwmoLM=",
+  "success": true,
+  "projectFilePath": "D:\\yhonam3\\calculadora\\calculadora1.csproj",
+>>>>>>> yhon
   "expectedPackageFiles": [],
   "logs": []
 }
