@@ -38,6 +38,9 @@ namespace calculadora1.Pages
                     case "Suma":
                         Resultado = (Numero1 + Numero2).ToString();
                         break;
+                    case "Multiplicacion":
+                        Resultado = (Numero1 * Numero2).ToString();
+                        break;
                     default:
                         Resultado = "Operación no válida.";
                         break;
